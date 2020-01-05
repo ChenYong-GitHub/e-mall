@@ -10,6 +10,7 @@
     <modules>
         <module>emall-api</module>
         <module>emall-common</module>
+        <module>emall-mbg</module>
     </modules>
     <name>e-mall</name>
     <description>仿京东电子商城</description>
