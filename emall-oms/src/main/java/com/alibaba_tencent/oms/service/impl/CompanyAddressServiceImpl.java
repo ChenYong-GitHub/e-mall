@@ -1,8 +1,8 @@
 package com.alibaba_tencent.oms.service.impl;
 
-import com.alibaba_tencent.api.oms.entity.CompanyAddress;
-import com.alibaba_tencent.api.oms.mapper.CompanyAddressMapper;
-import com.alibaba_tencent.api.oms.service.CompanyAddressService;
+import com.alibaba_tencent.emall.oms.entity.CompanyAddress;
+import com.alibaba_tencent.emall.oms.mapper.CompanyAddressMapper;
+import com.alibaba_tencent.emall.oms.service.CompanyAddressService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

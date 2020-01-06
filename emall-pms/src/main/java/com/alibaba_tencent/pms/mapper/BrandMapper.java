@@ -1,6 +1,6 @@
 package com.alibaba_tencent.pms.mapper;
 
-import com.alibaba_tencent.api.pms.entity.Brand;
+import com.alibaba_tencent.emall.pms.entity.Brand;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

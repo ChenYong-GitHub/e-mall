@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.api.ums.entity.MemberTask;
-import com.alibaba_tencent.api.ums.mapper.MemberTaskMapper;
-import com.alibaba_tencent.api.ums.service.MemberTaskService;
+import com.alibaba_tencent.emall.ums.entity.MemberTask;
+import com.alibaba_tencent.emall.ums.mapper.MemberTaskMapper;
+import com.alibaba_tencent.emall.ums.service.MemberTaskService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

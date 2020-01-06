@@ -1,8 +1,8 @@
 package com.alibaba_tencent.pms.service.impl;
 
-import com.alibaba_tencent.api.pms.entity.ProductVertifyRecord;
-import com.alibaba_tencent.api.pms.mapper.ProductVertifyRecordMapper;
-import com.alibaba_tencent.api.pms.service.ProductVertifyRecordService;
+import com.alibaba_tencent.emall.pms.entity.ProductVertifyRecord;
+import com.alibaba_tencent.emall.pms.mapper.ProductVertifyRecordMapper;
+import com.alibaba_tencent.emall.pms.service.ProductVertifyRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

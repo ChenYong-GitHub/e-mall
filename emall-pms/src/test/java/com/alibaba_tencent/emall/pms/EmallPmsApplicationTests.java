@@ -1,7 +1,7 @@
 package com.alibaba_tencent.emall.pms;
 
-import com.alibaba_tencent.api.pms.entity.Product;
-import com.alibaba_tencent.api.pms.service.ProductService;
+import com.alibaba_tencent.emall.pms.entity.Product;
+import com.alibaba_tencent.emall.pms.service.ProductService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

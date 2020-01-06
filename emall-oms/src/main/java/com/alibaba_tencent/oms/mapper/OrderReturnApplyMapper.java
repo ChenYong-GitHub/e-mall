@@ -1,6 +1,6 @@
 package com.alibaba_tencent.oms.mapper;
 
-import com.alibaba_tencent.api.oms.entity.OrderReturnApply;
+import com.alibaba_tencent.emall.oms.entity.OrderReturnApply;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

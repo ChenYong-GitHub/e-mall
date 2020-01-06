@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.api.ums.entity.GrowthChangeHistory;
-import com.alibaba_tencent.api.ums.mapper.GrowthChangeHistoryMapper;
-import com.alibaba_tencent.api.ums.service.GrowthChangeHistoryService;
+import com.alibaba_tencent.emall.ums.entity.GrowthChangeHistory;
+import com.alibaba_tencent.emall.ums.mapper.GrowthChangeHistoryMapper;
+import com.alibaba_tencent.emall.ums.service.GrowthChangeHistoryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

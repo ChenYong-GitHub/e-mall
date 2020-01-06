@@ -1,8 +1,8 @@
 package com.alibaba_tencent.sms.service.impl;
 
-import com.alibaba_tencent.api.sms.entity.HomeRecommendProduct;
-import com.alibaba_tencent.api.sms.mapper.HomeRecommendProductMapper;
-import com.alibaba_tencent.api.sms.service.HomeRecommendProductService;
+import com.alibaba_tencent.emall.sms.entity.HomeRecommendProduct;
+import com.alibaba_tencent.emall.sms.mapper.HomeRecommendProductMapper;
+import com.alibaba_tencent.emall.sms.service.HomeRecommendProductService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
 package com.alibaba_tencent.sms.mapper;
 
-import com.alibaba_tencent.api.sms.entity.CouponProductRelation;
+import com.alibaba_tencent.emall.sms.entity.CouponProductRelation;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
