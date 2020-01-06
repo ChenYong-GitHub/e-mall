@@ -1,8 +1,8 @@
 package com.alibaba_tencent.pms.service.impl;
 
-import com.alibaba_tencent.emall.pms.entity.CommentReplay;
-import com.alibaba_tencent.emall.pms.mapper.CommentReplayMapper;
-import com.alibaba_tencent.emall.pms.service.CommentReplayService;
+import com.alibaba_tencent.api.pms.entity.CommentReplay;
+import com.alibaba_tencent.api.pms.mapper.CommentReplayMapper;
+import com.alibaba_tencent.api.pms.service.CommentReplayService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

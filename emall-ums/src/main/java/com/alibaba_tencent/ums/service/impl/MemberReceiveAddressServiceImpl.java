@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.emall.ums.entity.MemberReceiveAddress;
-import com.alibaba_tencent.emall.ums.mapper.MemberReceiveAddressMapper;
-import com.alibaba_tencent.emall.ums.service.MemberReceiveAddressService;
+import com.alibaba_tencent.api.ums.entity.MemberReceiveAddress;
+import com.alibaba_tencent.api.ums.mapper.MemberReceiveAddressMapper;
+import com.alibaba_tencent.api.ums.service.MemberReceiveAddressService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

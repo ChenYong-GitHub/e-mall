@@ -1,6 +1,6 @@
 package com.alibaba_tencent.ums.mapper;
 
-import com.alibaba_tencent.emall.ums.entity.AdminRoleRelation;
+import com.alibaba_tencent.api.ums.entity.AdminRoleRelation;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

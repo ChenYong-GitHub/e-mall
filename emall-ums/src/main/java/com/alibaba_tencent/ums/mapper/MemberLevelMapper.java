@@ -1,6 +1,6 @@
 package com.alibaba_tencent.ums.mapper;
 
-import com.alibaba_tencent.emall.ums.entity.MemberLevel;
+import com.alibaba_tencent.api.ums.entity.MemberLevel;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

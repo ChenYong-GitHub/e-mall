@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.emall.ums.entity.Admin;
-import com.alibaba_tencent.emall.ums.mapper.AdminMapper;
-import com.alibaba_tencent.emall.ums.service.AdminService;
+import com.alibaba_tencent.api.ums.entity.Admin;
+import com.alibaba_tencent.api.ums.mapper.AdminMapper;
+import com.alibaba_tencent.api.ums.service.AdminService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

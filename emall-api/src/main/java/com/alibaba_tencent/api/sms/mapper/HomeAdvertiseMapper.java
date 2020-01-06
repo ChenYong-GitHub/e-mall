@@ -1,0 +1,16 @@
+package com.alibaba_tencent.api.sms.mapper;
+
+import com.alibaba_tencent.api.sms.entity.HomeAdvertise;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+
+/**
+ * <p>
+ * 首页轮播广告表 Mapper 接口
+ * </p>
+ *
+ * @author ChenYong
+ * @since 2020-01-06
+ */
+public interface HomeAdvertiseMapper extends BaseMapper<HomeAdvertise> {
+
+}

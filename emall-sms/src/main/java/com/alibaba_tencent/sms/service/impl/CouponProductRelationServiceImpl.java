@@ -1,8 +1,8 @@
 package com.alibaba_tencent.sms.service.impl;
 
-import com.alibaba_tencent.emall.sms.entity.CouponProductRelation;
-import com.alibaba_tencent.emall.sms.mapper.CouponProductRelationMapper;
-import com.alibaba_tencent.emall.sms.service.CouponProductRelationService;
+import com.alibaba_tencent.api.sms.entity.CouponProductRelation;
+import com.alibaba_tencent.api.sms.mapper.CouponProductRelationMapper;
+import com.alibaba_tencent.api.sms.service.CouponProductRelationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

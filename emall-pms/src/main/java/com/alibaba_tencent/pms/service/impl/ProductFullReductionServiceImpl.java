@@ -1,8 +1,8 @@
 package com.alibaba_tencent.pms.service.impl;
 
-import com.alibaba_tencent.emall.pms.entity.ProductFullReduction;
-import com.alibaba_tencent.emall.pms.mapper.ProductFullReductionMapper;
-import com.alibaba_tencent.emall.pms.service.ProductFullReductionService;
+import com.alibaba_tencent.api.pms.entity.ProductFullReduction;
+import com.alibaba_tencent.api.pms.mapper.ProductFullReductionMapper;
+import com.alibaba_tencent.api.pms.service.ProductFullReductionService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

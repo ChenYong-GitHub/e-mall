@@ -1,6 +1,6 @@
 package com.alibaba_tencent.sms.mapper;
 
-import com.alibaba_tencent.emall.sms.entity.FlashPromotion;
+import com.alibaba_tencent.api.sms.entity.FlashPromotion;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.alibaba_tencent.ums.mapper;
 
-import com.alibaba_tencent.emall.ums.entity.MemberReceiveAddress;
+import com.alibaba_tencent.api.ums.entity.MemberReceiveAddress;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

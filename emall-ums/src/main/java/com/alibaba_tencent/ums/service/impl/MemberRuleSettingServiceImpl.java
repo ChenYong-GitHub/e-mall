@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.emall.ums.entity.MemberRuleSetting;
-import com.alibaba_tencent.emall.ums.mapper.MemberRuleSettingMapper;
-import com.alibaba_tencent.emall.ums.service.MemberRuleSettingService;
+import com.alibaba_tencent.api.ums.entity.MemberRuleSetting;
+import com.alibaba_tencent.api.ums.mapper.MemberRuleSettingMapper;
+import com.alibaba_tencent.api.ums.service.MemberRuleSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

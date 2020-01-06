@@ -1,8 +1,8 @@
 package com.alibaba_tencent.ums.service.impl;
 
-import com.alibaba_tencent.emall.ums.entity.MemberTag;
-import com.alibaba_tencent.emall.ums.mapper.MemberTagMapper;
-import com.alibaba_tencent.emall.ums.service.MemberTagService;
+import com.alibaba_tencent.api.ums.entity.MemberTag;
+import com.alibaba_tencent.api.ums.mapper.MemberTagMapper;
+import com.alibaba_tencent.api.ums.service.MemberTagService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
