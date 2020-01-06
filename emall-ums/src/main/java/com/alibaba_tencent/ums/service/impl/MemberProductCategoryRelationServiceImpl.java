@@ -1,7 +1,7 @@
 package com.alibaba_tencent.ums.service.impl;
 
 import com.alibaba_tencent.emall.ums.entity.MemberProductCategoryRelation;
-import com.alibaba_tencent.emall.ums.mapper.MemberProductCategoryRelationMapper;
+import com.alibaba_tencent.ums.mapper.MemberProductCategoryRelationMapper;
 import com.alibaba_tencent.emall.ums.service.MemberProductCategoryRelationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

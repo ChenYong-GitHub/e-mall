@@ -1,7 +1,7 @@
 package com.alibaba_tencent.pms.service.impl;
 
 import com.alibaba_tencent.emall.pms.entity.FeightTemplate;
-import com.alibaba_tencent.emall.pms.mapper.FeightTemplateMapper;
+import com.alibaba_tencent.pms.mapper.FeightTemplateMapper;
 import com.alibaba_tencent.emall.pms.service.FeightTemplateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

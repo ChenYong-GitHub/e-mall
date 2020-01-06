@@ -1,7 +1,7 @@
 package com.alibaba_tencent.ums.service.impl;
 
 import com.alibaba_tencent.emall.ums.entity.Role;
-import com.alibaba_tencent.emall.ums.mapper.RoleMapper;
+import com.alibaba_tencent.ums.mapper.RoleMapper;
 import com.alibaba_tencent.emall.ums.service.RoleService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

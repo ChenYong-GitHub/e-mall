@@ -1,7 +1,7 @@
 package com.alibaba_tencent.oms.service.impl;
 
 import com.alibaba_tencent.emall.oms.entity.OrderOperateHistory;
-import com.alibaba_tencent.emall.oms.mapper.OrderOperateHistoryMapper;
+import com.alibaba_tencent.oms.mapper.OrderOperateHistoryMapper;
 import com.alibaba_tencent.emall.oms.service.OrderOperateHistoryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
 package com.alibaba_tencent.ums.service.impl;
 
 import com.alibaba_tencent.emall.ums.entity.AdminLoginLog;
-import com.alibaba_tencent.emall.ums.mapper.AdminLoginLogMapper;
+import com.alibaba_tencent.ums.mapper.AdminLoginLogMapper;
 import com.alibaba_tencent.emall.ums.service.AdminLoginLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

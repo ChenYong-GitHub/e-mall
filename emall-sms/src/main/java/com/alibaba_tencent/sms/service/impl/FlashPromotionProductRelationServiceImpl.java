@@ -1,7 +1,7 @@
 package com.alibaba_tencent.sms.service.impl;
 
 import com.alibaba_tencent.emall.sms.entity.FlashPromotionProductRelation;
-import com.alibaba_tencent.emall.sms.mapper.FlashPromotionProductRelationMapper;
+import com.alibaba_tencent.sms.mapper.FlashPromotionProductRelationMapper;
 import com.alibaba_tencent.emall.sms.service.FlashPromotionProductRelationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

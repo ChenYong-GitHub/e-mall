@@ -1,7 +1,7 @@
 package com.alibaba_tencent.sms.service.impl;
 
 import com.alibaba_tencent.emall.sms.entity.FlashPromotionLog;
-import com.alibaba_tencent.emall.sms.mapper.FlashPromotionLogMapper;
+import com.alibaba_tencent.sms.mapper.FlashPromotionLogMapper;
 import com.alibaba_tencent.emall.sms.service.FlashPromotionLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

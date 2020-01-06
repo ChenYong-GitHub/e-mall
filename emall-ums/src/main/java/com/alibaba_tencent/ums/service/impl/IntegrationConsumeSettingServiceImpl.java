@@ -1,7 +1,7 @@
 package com.alibaba_tencent.ums.service.impl;
 
 import com.alibaba_tencent.emall.ums.entity.IntegrationConsumeSetting;
-import com.alibaba_tencent.emall.ums.mapper.IntegrationConsumeSettingMapper;
+import com.alibaba_tencent.ums.mapper.IntegrationConsumeSettingMapper;
 import com.alibaba_tencent.emall.ums.service.IntegrationConsumeSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

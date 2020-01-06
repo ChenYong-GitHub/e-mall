@@ -1,7 +1,7 @@
 package com.alibaba_tencent.pms.service.impl;
 
 import com.alibaba_tencent.emall.pms.entity.ProductCategoryAttributeRelation;
-import com.alibaba_tencent.emall.pms.mapper.ProductCategoryAttributeRelationMapper;
+import com.alibaba_tencent.pms.mapper.ProductCategoryAttributeRelationMapper;
 import com.alibaba_tencent.emall.pms.service.ProductCategoryAttributeRelationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
 package com.alibaba_tencent.pms.service.impl;
 
 import com.alibaba_tencent.emall.pms.entity.Brand;
-import com.alibaba_tencent.emall.pms.mapper.BrandMapper;
+import com.alibaba_tencent.pms.mapper.BrandMapper;
 import com.alibaba_tencent.emall.pms.service.BrandService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

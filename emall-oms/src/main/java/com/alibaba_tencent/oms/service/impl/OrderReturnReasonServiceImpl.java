@@ -1,7 +1,7 @@
 package com.alibaba_tencent.oms.service.impl;
 
 import com.alibaba_tencent.emall.oms.entity.OrderReturnReason;
-import com.alibaba_tencent.emall.oms.mapper.OrderReturnReasonMapper;
+import com.alibaba_tencent.oms.mapper.OrderReturnReasonMapper;
 import com.alibaba_tencent.emall.oms.service.OrderReturnReasonService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

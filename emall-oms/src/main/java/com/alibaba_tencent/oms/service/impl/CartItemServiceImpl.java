@@ -1,7 +1,7 @@
 package com.alibaba_tencent.oms.service.impl;
 
 import com.alibaba_tencent.emall.oms.entity.CartItem;
-import com.alibaba_tencent.emall.oms.mapper.CartItemMapper;
+import com.alibaba_tencent.oms.mapper.CartItemMapper;
 import com.alibaba_tencent.emall.oms.service.CartItemService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

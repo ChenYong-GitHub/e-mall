@@ -1,7 +1,7 @@
 package com.alibaba_tencent.ums.service.impl;
 
 import com.alibaba_tencent.emall.ums.entity.AdminPermissionRelation;
-import com.alibaba_tencent.emall.ums.mapper.AdminPermissionRelationMapper;
+import com.alibaba_tencent.ums.mapper.AdminPermissionRelationMapper;
 import com.alibaba_tencent.emall.ums.service.AdminPermissionRelationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

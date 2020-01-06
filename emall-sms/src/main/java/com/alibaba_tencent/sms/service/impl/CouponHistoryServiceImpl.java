@@ -1,7 +1,7 @@
 package com.alibaba_tencent.sms.service.impl;
 
 import com.alibaba_tencent.emall.sms.entity.CouponHistory;
-import com.alibaba_tencent.emall.sms.mapper.CouponHistoryMapper;
+import com.alibaba_tencent.sms.mapper.CouponHistoryMapper;
 import com.alibaba_tencent.emall.sms.service.CouponHistoryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;

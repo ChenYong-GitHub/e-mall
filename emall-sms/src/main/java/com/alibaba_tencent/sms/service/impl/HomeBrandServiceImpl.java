@@ -1,7 +1,7 @@
 package com.alibaba_tencent.sms.service.impl;
 
 import com.alibaba_tencent.emall.sms.entity.HomeBrand;
-import com.alibaba_tencent.emall.sms.mapper.HomeBrandMapper;
+import com.alibaba_tencent.sms.mapper.HomeBrandMapper;
 import com.alibaba_tencent.emall.sms.service.HomeBrandService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
