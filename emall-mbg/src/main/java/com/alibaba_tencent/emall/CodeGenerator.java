@@ -29,7 +29,7 @@ public class CodeGenerator {
         // String projectPath = System.getProperty("user.dir");
         String projectPath = "D:\\SCT_WorkSpace\\projects\\e-mall\\emall-mbg";
         // String a = "D:\\SCT_WorkSpace\\projects\\e-mall\\emall-mbg";
-        // gc.setOutputDir("G:\\workspace\\idea\\com.atguigu.gmall-parent\\com.atguigu.gmall-mbg" + "/src/main/java");
+        // gc.setOutputDir("G:\\workspace\\idea\\com.alibaba_tencent.emall-parent\\com.alibaba_tencent.emall-mbg" + "/src/main/java");
         gc.setOutputDir(projectPath + "/src/main/java");
         gc.setAuthor("ChenYong");
         gc.setOpen(false); //生成后是否打开资源管理器

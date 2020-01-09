@@ -1,6 +1,7 @@
 package com.alibaba_tencent.emall.pms.service;
 
 import com.alibaba_tencent.emall.pms.entity.ProductAttributeCategory;
+import com.alibaba_tencent.emall.vo.PageInfoVo;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
@@ -13,4 +14,12 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface ProductAttributeCategoryService extends IService<ProductAttributeCategory> {
 
+    /**
+     * @Desc: 分页查询所有的属性分类
+     * @Param:  pageNum, pageSize
+     * @Return: PageInfoVo
+     * @Author: ChenYong
+     * @Date: 2020-01-09 11:20
+     */
+    PageInfoVo roductAttributeCategoryPageInfo(Integer pageNum, Integer pageSize);
 }
